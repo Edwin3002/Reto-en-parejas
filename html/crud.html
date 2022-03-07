@@ -26,10 +26,10 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-uppercase">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="../html/index.html">Home</a>
+                        <a class="nav-link " aria-current="page" href="../html/index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="../html/crud.html">Crud</a>
+                        <a class="nav-link active" href="./html/crud.html">Crud</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link ">Pago</a>
@@ -41,7 +41,7 @@
         </div>
     </nav>
 
-    <!-- nav categorias -->
+    <!-- nav categorias
     <br id="menu"><br><br>
     <ul class="nav justify-content-center categorias">
         <li class="nav-item ">
@@ -54,7 +54,65 @@
         <li class="nav-item">
             <a class="nav-link active text-dark fw-bold fs-3" href="#" onclick="pintarCartas('replica')">Replica</a>
         </li>
-    </ul>
+    </ul> -->
+    
+    <!-- formulario -->
+    <div class="formularioGames">
+        <form id="formulario">
+            <div class="campo">
+                <label id="label-edit" for="id" class="form-label body1Regular label-edit">Id</label>
+                <input id="id" name="id" class="ms-1 edit body1Regular form-control" type="text" placeholder=""
+                    readonly>
+            </div>
+            <div class="campo">
+                <label for="name" class="form-label body1Regular label-edit">Nombre</label>
+                <input id="name" name="name" class="ms-1 edit body1Regular form-control" type="text" placeholder="">
+            </div>
+            <div class="campo">
+                <label for="price" class="form-label body1Regular label-edit">Precio</label>
+                <input id="price" name="price" class="ms-1 edit body1Regular form-control" type="number"
+                    placeholder="">
+            </div>
+            <div class="campo">
+                <label for="description" class="form-label body1Regular label-edit">Descripcion</label>
+                <input id="description" name="description" class="ms-1 edit body1Regular form-control" type="text"
+                    placeholder="">
+            </div>
+            <div class="campo">
+                <label for="genre" class="form-label body1Regular label-edit">Genero</label>
+                <input id="genre" name="genre" class="ms-1 edit body1Regular form-control" type="text"
+                    placeholder="">
+            </div>
+            <div class="campo">
+                <label for="imagen" class="form-label body1Regular label-edit">Imagen</label>
+                <input id="imagen" name="imagen" class="ms-1 edit body1Regular form-control" type="text"
+                    placeholder="">
+            </div>
+            <div class="campo">
+                <label for="plataform" class="form-label body1Regular label-edit">Plataforma</label>
+                <input id="plataform" name="plataform" class="ms-1 edit body1Regular form-control" type="text"
+                    placeholder="">
+            </div>
+           
+            <!-- botones -->
+            <div class="">
+                <button id="btnGuardar" type="submit"
+                    class="btn btn-secondary buttom guardar-cambios">Guardar</button>
+            </div>
+            <div class="">
+                <button id="btnNombre" type="button" class="btn btn-secondary buttom guardar-cambios">Buscar por
+                    Nombre</button>
+            </div>
+            <div class="">
+                <button id="btnEditar" type="button"
+                    class="btn btn-secondary buttom guardar-cambios">Editar</button>
+            </div>
+            <div class="">
+                <button id="btnEliminar" type="button"
+                    class="btn btn-secondary buttom guardar-cambios">Eliminar</button>
+            </div>
+        </form>
+    </div>
 
     <!-- cartas horizon -->
     <div class="cartas" id="cartas">
