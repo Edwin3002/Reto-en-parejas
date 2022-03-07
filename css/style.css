@@ -20,6 +20,9 @@ body{
     background-image: linear-gradient(#2FA4FF, #9AE66E);
     border-radius: 15px;
 }
+.platform{
+    font-weight: bold;
+}
 .cardSola{
     margin: 10px auto;
 }
