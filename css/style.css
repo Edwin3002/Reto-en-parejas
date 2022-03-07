@@ -3,6 +3,50 @@ body{
     margin: 0;
     padding: 0;
 }
+.title{
+    text-align: center;
+    margin-top: 100px;
+}
+/* cartas */
+.cartas {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+.card{
+    padding: 10px;
+    margin: 10px;
+    background-image: linear-gradient(#2FA4FF, #9AE66E);
+    border-radius: 15px;
+}
+.cardSola{
+    margin: 10px auto;
+}
+.card img{
+    object-fit: cover;
+    width: 100%;
+    border-radius: 10px;
+}
+.card img:hover{
+    transform: scale(1.03);
+}
+.mosaico{
+    display: flex;
+    width: 250px;
+    height: 350px;
+    margin: auto;
+}
+.mosaico2{
+    display: flex;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}
+.resumen{
+    text-align: justify;
+}
+
 /* formularioGames */
 .formularioGames{
     width: 80%;
