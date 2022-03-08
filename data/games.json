@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "Godfall",
+    "price": 69.99,
+    "description": "Godfall es un nuevo looter-slasher de próxima generación, ambientado en un brillate universio de fantasía lleno de caballeros heróicos y magia arcana.",
+    "genre": "Accion",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-10-768x924.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 2,
+    "name": "Assassin's Creed Valhalla",
+    "price": 59.99,
+    "description": "Conviértete en un vikingo legendario en busca de la gloria. Asalta a tus enemigos, haz crecer tu asentamiento y construye tu poder político.",
+    "genre": "Accion",
+    "cover": "https://www.psu.com/news/all-ps5-box-art-every-ps5-game-cover/all-ps5-box-art-every-ps5-game-cover-11/",
+    "platform": "PS5"
+  },
+  {
+    "id": 3,
+    "name": "Bugsnax",
+    "price": 24.99,
+    "description": "Bugsnax te lleva a una fantástica aventura en Snaktooth Island, hogar de los legendarios Bugsnax, criaturas mitad insecto y mitad comida.",
+    "genre": "Aventura",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-13-1.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 4,
+    "name": "Call of Duty: Black Ops Cold War",
+    "price": 69.99,
+    "description": "Black Ops Cold War arroja a los fans a las profundidades de la frágil batalla geopolítica de la Guerra Fría del comienzo de los años 80.",
+    "genre": "First-Person-Shooter",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-14.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 5,
+    "name": "Demon's Souls",
+    "price": 38.89,
+    "description": "Completamente reconstruido desde cero y mejorado con maestría, este remake presenta los horrores de una tierra de fantasía oscura y cargada de niebla a toda una nueva generación de jugadores.",
+    "genre": "Sangre, Gore, Violencia",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-2.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 6,
+    "name": "Devil May Cray 5",
+    "price": 39.99,
+    "description": "Varios años después de la orden del incidente de la espada, una nueva amenaza demoniaca ha invadido nuestro mundo.",
+    "genre": "Accion",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-2-1.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 7,
+    "name": "Far Cry 6",
+    "price": 59.99,
+    "description": "Bienvenidos a Yara, un paraíso tropical congelado en el tiempo. Far Cry 6 sumerge a los jugadores en el mundo lleno de adrenalina de una revolución guerrillera moderna.",
+    "genre": "Mundo Abierto",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-13.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 8,
+    "name": "Gran Turismo 7",
+    "price": 69.99,
+    "description": "Ya seas un corredor competitivo o casual, encuentra tu linea con una asombrosa colección de modos de juego, incluidos los favoritos de los fanáticos como GT Campain, Arcade y Driving School.",
+    "genre": "Conduccion, Carreras",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-15.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 9,
+    "name": "Hitman III",
+    "price": 23.99,
+    "description": "Conviértete en el icónico asesino a sueldo Agente 47 una vez más en la dramática conclusión de la trilogía World of Assassination.",
+    "genre": "Accion",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-6-1.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 10,
+    "name": "Immortals: Fenyx Rising",
+    "price": 59.99,
+    "description": "Juega como Fenyx, un nuevo semidiós alado, en una búsqueda para salvar a los dioses griegos. El destino del mundo está en juego: ustedes son la última esperanza de los dioses.",
+    "genre": "Adventure",
+    "cover": "https://www.psu.com/wp/wp-content/uploads/2020/09/all-ps5-box-art-every-ps5-game-cover-10-1.jpg",
+    "platform": "PS5"
+  },
+  {
+    "id": 11,
+    "name": "Forza Horizon 5",
+    "price": 59.99,
+    "description": "¡Tu aventura definitiva en Horizon te espera! Explora los vibrantes y siempre cambiantes paisajes del mundo abierto de México con una acción de conducción ilimitada y divertida en cientos de los mejores coches del mundo.",
+    "genre": "Conduccion, Carreras",
+    "cover": "https://th.bing.com/th/id/OIP.1qqno0P8R7oacAIhG7JtZwHaJi?pid=ImgDet&rs=1",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 12,
+    "name": "Alan Wake Remastered",
+    "price": 29.99,
+    "description": "En este galardonado thriller de acción cinematográfica, el problemático autor Alan Wake se embarca en una búsqueda desesperada de su esposa desaparecida, Alice.",
+    "genre": "Accion, Aventura",
+    "cover": "https://irmitek.com/wp-content/uploads/2022/02/alan-wake-remastered-xbox-series-x-s-xbox-live-key-united-states.jpg",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 13,
+    "name": "Control Ultimate Edition",
+    "price": 39.99,
+    "description": "Una presencia corruptora ha invadido la Oficina Federal de Control... Sólo tú tienes el poder de detenerla. El mundo es ahora tu arma en una lucha épica para aniquilar a un ominoso enemigo a través de entornos profundos e impredecibles.",
+    "genre": "Accion, Aventura",
+    "cover": "https://i.ibb.co/y5q91FK/74-708-073-S01.jpg",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 14,
+    "name": "The Forgotten City",
+    "price": 29.99,
+    "description": "The Forgotten City es un juego de aventura de misterio, exploración y deducción, y una reimaginación del aclamado mod que ganó un premio nacional del Gremio de Escritores y acumuló más de 3 millones de descargas.",
+    "genre": "Accion, Aventura",
+    "cover": "https://th.bing.com/th/id/OIP.-oCQcQkxZKG4_J_DmxA4pgAAAA?pid=ImgDet&rs=1",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 15,
+    "name": "Gears Tactics",
+    "price": 39.99,
+    "description": "Las ciudades del planeta Sera empiezan a caer ante la monstruosa amenaza que surge del subsuelo: la Horda Locust. Con el gobierno desorganizado, un escuadrón de supervivientes emerge como la última esperanza de la humanidad.",
+    "genre": "Accion, Aventura",
+    "cover": "https://th.bing.com/th/id/OIP.KQAwZ2WHw8qeOLzsD4gHGwHaJl?pid=ImgDet&rs=1",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 16,
+    "name": "Halo Infinite",
+    "price": 59.99,
+    "description": "Cuando toda la esperanza está perdida y el destino de la humanidad pende de un hilo, el Jefe Maestro está listo para enfrentarse al enemigo más despiadado al que jamás se haya enfrentado.",
+    "genre": "Shooter",
+    "cover": "https://th.bing.com/th/id/R.c42653d34723d09dd3d0cca2a0eb385f?rik=zCHl%2fUYK%2bVVjnA&pid=ImgRaw&r=0",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 17,
+    "name": "Mortal Kombat 11 Ultimate",
+    "price": 59.99,
+    "description": "¡La experiencia definitiva de MK11! Toma el control de los protectores de Earthrealm en las dos aclamadas campañas de la historia del juego, en las que el tiempo se desplaza para impedir que Kronika rebobine el tiempo y reinicie la historia.",
+    "genre": "Fighting",
+    "cover": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6414/6414030_sd.jpg",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 18,
+    "name": "No Man's Sky",
+    "price": 59.99,
+    "description": "Inspirado en la aventura y la imaginación que nos gusta de la ciencia ficción clásica, No Man's Sky te presenta una galaxia para explorar, llena de planetas y formas de vida únicas, y de peligro y acción constantes.",
+    "genre": "Aventura",
+    "cover": "https://cdn.cdkeys.com/500x706/media/catalog/product/n/o/no-mans-sky-xbox-one.jpg",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 19,
+    "name": "Resident Evil Village",
+    "price": 59.99,
+    "description": "Experimenta el survival horror como nunca antes en la octava gran entrega de la histórica franquicia Resident Evil: Resident Evil Village.",
+    "genre": "Survival Horror",
+    "cover": "https://th.bing.com/th/id/OIP.pKb2gjiIcTEhd6ZCJare8wHaLH?pid=ImgDet&w=564&h=846&rs=1",
+    "platform": "Xbox Series X"
+  },
+  {
+    "id": 20,
+    "name": "Yakuza: Like a Dragon",
+    "price": 59.99,
+    "description": "Ichiban Kasuga, un gruñón de bajo rango de una familia yakuza de baja categoría en Tokio, se enfrenta a una condena de 18 años de prisión tras cargar con la culpa de un crimen que no cometió.",
+    "genre": "Accion",
+    "cover": "https://th.bing.com/th/id/OIP.PsR5NiGp0JBT4PIzetNe4AHaJO?pid=ImgDet&rs=1",
+    "platform": "Xbox Series X"
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "price": "59.99",
+    "description": "Grand Theft Auto V es el juego de mundo abierto más grande, más dinámico y más diverso jamás creado. Combina la historia y la jugabilidad de un modo nuevo, mientras los jugadores entran y salen repetidamente de las vidas de los tres personajes principales.",
+    "genre": "accion",
+    "cover": "https://media.vandal.net/m/86443/grand-theft-auto-v-202011241432933_1.jpg",
+    "platform": "PS5",
+    "id": 21
+  },
+  {
+    "name": "metro",
+    "price": "70",
+    "description": "ambientado en rusia",
+    "genre": "terror suspenso",
+    "cover": "https://www.mobygames.com/images/covers/l/289589-metro-2033-redux-playstation-4-front-cover.jpg",
+    "platform": "Xbox Series X",
+    "id": 22
+  },
+  {
+    "name": "dead by dailight",
+    "price": "40",
+    "description": "matar a humanos",
+    "genre": "miedo, terror",
+    "cover": "https://s3.gaming-cdn.com/images/products/1904/orig/dead-by-daylight-pc-game-steam-cover.jpg",
+    "platform": "PS5",
+    "id": 23
+  }
+]
